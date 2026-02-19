@@ -48,7 +48,7 @@ Conformément aux consignes, voici le détail des IA utilisées pour la concepti
 
 L'application est entièrement déployée et accessible publiquement.
 
-*  URL de la Webapp :  [Insérer le lien Vercel/Netlify ici]
+*  URL de la Webapp : https://timetravel-agency-re-1zys.bolt.host
 *  Dépôt du code source :  Archive ZIP fournie sur Moodle lors du rendu.
 
 ---
